@@ -1,5 +1,4 @@
-# small-business-financial-dashboard
-Power BI dashboard analysing 24 months of sales, cost of sales and operating expenses for a synthetic Cape Town retailer. The analysis reveals why revenue grew 14.6% while net profit fell 42%, highlighting rising costs, margin pressure and key areas for management to improve profitability.
+
 # Small Business Financial Dashboard
 
 **Why did a growing retailer's profit fall by 42%?**
@@ -7,8 +6,6 @@ Power BI dashboard analysing 24 months of sales, cost of sales and operating exp
 A Power BI dashboard that analyses 24 months of sales, cost of sales and operating expenses for a fictional Cape Town homeware retailer, *Table Mountain Home Co.*, and explains why revenue grew while profit shrank.
 
 ![Dashboard overview](images/dashboard-overview.png)
-
-> **Note:** all data is synthetic. It was generated with Python (pandas, NumPy) for portfolio purposes and contains no real business information.
 
 ---
 
@@ -67,17 +64,6 @@ Being honest about what this project does and doesn't show:
 ## Tools
 
 Power BI Desktop (data model, DAX, visuals) · Python (pandas, NumPy) for data generation · Google Sheets for reconciliation
-
-## Repository contents
-
-| File | Description |
-|---|---|
-| `TableMountainHomeCo_Financial_Dashboard.pbix` | Power BI report |
-| `data/TableMountainHomeCo_Dataset.xlsx` | Synthetic dataset (Sales, Cost of Sales, Expenses) |
-| `data/generate_dataset.py` | Script that generates the dataset |
-| `Dashboard.pdf` | PDF export of the dashboard |
-| `images/` | Screenshots |
-
 ---
 
 *Built by Mavis Masikati, ACCA FIA candidate and freelance data analyst, Cape Town.*
