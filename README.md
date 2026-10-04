@@ -5,7 +5,9 @@
 
 A Power BI dashboard that analyses 24 months of sales, cost of sales and operating expenses for a fictional Cape Town homeware retailer, *Table Mountain Home Co.*, and explains why revenue grew while profit shrank.
 
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview] 
+![Table Mountain Home Co. Financial Dashboard](table-mountain-dashboard.png)
+
 
 ---
 
